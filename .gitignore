@@ -27,3 +27,5 @@ log
 !openslam_gmapping/include/gmapping/log/
 !openslam_gmapping/log/
 install
+slam_gmapping/map/*.pgm
+slam_gmapping/map/*.yaml
